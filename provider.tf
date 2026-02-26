@@ -20,5 +20,9 @@ terraform {
 provider "aws" {
   # alias   = "brr-np"
   region  = "us-east-2"
-  profile = "brr-np-admin"
+  profile = "brr-tools-admin"
 }
+
+#
+# my-eks-cluster-example-1-8lwxrxAe
+#

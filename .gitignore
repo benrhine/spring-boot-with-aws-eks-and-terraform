@@ -30,3 +30,9 @@ replay_pid*
 
 build
 *.DS_Store
+
+*.tfstate
+.terraform
+.hcl
+.terraform.lock.hcl
+terraform.tfstate.backup
